@@ -111,7 +111,7 @@
 			<input placeholder="E-mail">
 			<textarea placeholder="Votre message ici..."></textarea>
 			<button id="#btn">Envoyer</button>
-		</form>
+	        </form>
 		<div id="deuxièmeTrait"></div>
 		<div id="copyrightEtIcons">
 			<div id="copyright">
